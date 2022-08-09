@@ -1,0 +1,14 @@
+C:\Users\amoha\source\repos\warofheros\obj\Debug\netcoreapp3.1\warofheros.csproj.AssemblyReference.cache
+C:\Users\amoha\source\repos\warofheros\obj\Debug\netcoreapp3.1\warofheros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amoha\source\repos\warofheros\obj\Debug\netcoreapp3.1\warofheros.AssemblyInfoInputs.cache
+C:\Users\amoha\source\repos\warofheros\obj\Debug\netcoreapp3.1\warofheros.AssemblyInfo.cs
+C:\Users\amoha\source\repos\warofheros\obj\Debug\netcoreapp3.1\warofheros.csproj.CoreCompileInputs.cache
+C:\Users\amoha\source\repos\warofheros\bin\Debug\netcoreapp3.1\warofheros.exe
+C:\Users\amoha\source\repos\warofheros\bin\Debug\netcoreapp3.1\warofheros.deps.json
+C:\Users\amoha\source\repos\warofheros\bin\Debug\netcoreapp3.1\warofheros.runtimeconfig.json
+C:\Users\amoha\source\repos\warofheros\bin\Debug\netcoreapp3.1\warofheros.runtimeconfig.dev.json
+C:\Users\amoha\source\repos\warofheros\bin\Debug\netcoreapp3.1\warofheros.dll
+C:\Users\amoha\source\repos\warofheros\bin\Debug\netcoreapp3.1\warofheros.pdb
+C:\Users\amoha\source\repos\warofheros\obj\Debug\netcoreapp3.1\warofheros.dll
+C:\Users\amoha\source\repos\warofheros\obj\Debug\netcoreapp3.1\warofheros.pdb
+C:\Users\amoha\source\repos\warofheros\obj\Debug\netcoreapp3.1\warofheros.genruntimeconfig.cache
